@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Registrarme</title>
+</head>
+<body>
+	<center>
+	<fieldset>
+		<legend><h2>REGISTRAR USUARIO</h2></legend><br><br>
+		<form action="insertarusuario.php" method="POST">
+			<strong>UserName</strong>
+			<br>
+			<font color="gray"><i>(debe ser distinto al de los demas usuarios registrados. Intenta hasta encontrar un USERNAME Unico)</i></font>
+			<br>
+			<input type="text" name="username" size="20" required/>
+			<br><br>
+			Nombre: 
+			<input type="text" name="nombre" size="30" required/>
+			<br>
+			Apellido: 
+			<input type="text" name="apellido" size="30" required/>
+			<br>
+			Email (Opcional):
+			<input type="text" name="email" size="40" >
+			<br>
+			Contrase&ntildea: 
+			<input type="password" size="30" name="password">
+			<br>
+			Confirmar Contrase&ntildea: 
+			<input type="password" name="cpassword" size="30">
+			<br>
+			<input type="submit" name="enviar" value="Registrarse!">
+		</form>
+	</fieldset>
+	
+	</center>
+</body>
+</html>

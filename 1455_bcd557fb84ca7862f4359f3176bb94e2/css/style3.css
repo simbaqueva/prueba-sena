@@ -1,0 +1,354 @@
+
+@import"reset.css";
+@import"grid.css";
+@import"forms.css";
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,400italic);
+body{
+	background:url(http://localhost/dashboard/proyecto%20universidades/Free-AirLines-Website-Template1/Free%20AirLines%20Website%20Template/site/1455_bcd557fb84ca7862f4359f3176bb94e2/images/body-bg.png) no-repeat  5% 0;
+	font:12px/18px Arial, Helvetica, sans-serif;
+	color:#a7a7a7;
+	position:relative;
+	min-width:970px;
+}
+/*-----alinear----------*/
+
+/* Global Structure---------------------------------------- */
+.main{
+	margin:0 auto;
+	position:relative;
+	width:950px;
+}
+.main-bg {
+	background:url(../images/main-bg.jpg) no-repeat center 0;
+	min-height:100%;
+}		
+
+
+
+
+
+
+
+
+.box1 {width:206px;float:left;background:url(../images/bg_box1.gif) top repeat-x ;color:blue;margin-top:2px;-moz-border-radius:4px;-webkit-border-radius:4px;position:relative margin-left: 7px; margin-right: 15px;  }
+.box1 .pad_1 { padding:25px 25px 2px;background:url(../images/bg_testimonials.gif) 170px 160px no-repeat}
+@import url("font-awesome.min.css");
+@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic");
+
+
+
+
+
+
+
+
+
+/*----- alignment & clearing -----*/
+.fleft{float:left}
+.fright{float:right}
+.alignright{text-align:right}
+.aligncenter{text-align:center}
+.alignmiddle *{vertical-align:middle}
+
+.clear{
+	clear:both;
+	line-height:0;
+	font-size:0;
+	overflow:hidden;
+	height:0;
+	width:100%;
+}
+.wrapper{
+	overflow:hidden;
+	position:relative;
+}
+.extra-wrap{
+	overflow:hidden;
+	display:block;
+}
+/*  Header styles */
+h1,h2,h3,h4,h5,h6{
+	color:#454545;
+	padding:0 0 20px 0;
+	font-weight:normal;
+	font-family: 'Open Sans', sans-serif;
+	text-shadow:1px 1px #fbfbfb;
+	letter-spacing:-1px;
+}
+h1{font-size:33px; line-height:39px;}
+h2{font-size:30px; line-height:36px;}
+h3{font-size:27px; line-height:32px;} 
+h4{font-size:24px; line-height:30px;}  
+h5{font-size:21px; line-height:26px;}
+h6{font-size:18px; line-height:22px;}
+
+h2 span {
+	color:#ec8f23;
+	text-transform:uppercase;
+}
+.heading-1 {
+	text-transform:uppercase;
+	font-weight:bold;
+	color:#ec8f23;
+	padding:0 0 10px 0;
+}
+/*----- text & typography -----*/
+
+
+/*----- boxes -----*/
+
+
+.btn-container {
+	position:absolute;
+	bottom:-6px;
+	left:0;
+	right:0;
+	text-align:center;
+}
+
+
+
+h2 span.spacer {
+	padding:0 5px;
+}
+
+.image {
+		position: relative;
+		width: 100%;
+
+	}
+	h2 {
+		position: absolute;
+		top: 30px;
+		left: 10px;
+		width: 100%;
+	}
+h2 span {
+	color: white;
+	font: bold 70px/45px helvetica, sans-serif;
+	letter-spacing: -1px;
+padding: 10px;
+}
+h2 span.spacer {
+	padding:0 5px;
+}
+	h3 {
+		position: absolute;
+		top: 30px;
+		left: 1px;
+		width: 100%;
+	}
+h3 span {
+	color: white;
+	font: bold 70px/600px helvetica, sans-serif;
+	letter-spacing: -1px;
+padding: 10px;
+}
+h3 span.spacer {
+	padding:0 5px;
+}
+
+h2 span.spacer {
+	padding:0 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.box-2 {
+	background:url(http://localhost/dashboard/proyecto%20universidades/Free-AirLines-Website-Template1/Free%20AirLines%20Website%20Template/site/1455_bcd557fb84ca7862f4359f3176bb94e2/images/body-bg.gif);
+	border-radius:6px;
+
+	padding:19px 25px 29px 38px;
+}
+.boxes-bg {position:relative;}
+.boxes-bg:after {
+	display:block;
+	position:absolute;
+	content:"";
+	background:url(http://localhost/dashboard/proyecto%20universidades/Free-AirLines-Website-Template1/Free%20AirLines%20Website%20Template/site/1455_bcd557fb84ca7862f4359f3176bb94e2/images/boxes-bg.png) no-repeat 0 0;
+	left:-5px;
+	top:-39px;
+	width:970px;
+	height:131px;
+	z-index:1;
+	
+}
+/*----- indents -----*/
+.img-indent {
+	float:left;
+	margin:0 10px 0 0;
+}
+.img-indent-1 {
+	float:left;
+	margin:0 10px 12px 0;
+}
+.img-indent-bot {margin:0 0 14px 0;}
+
+p {padding-bottom:18px;}
+.p {padding-bottom:18px;}
+.p0 {padding-bottom:0 !important;}
+.p1 {padding-bottom:6px !important;}
+.p2 {padding-bottom:12px !important;}
+.p3 {padding-bottom:25px !important;}
+
+.a1 {margin:0 5px;}
+.indent-bot {margin:0 0 18px 0;}
+.indent-bot-1 {margin:0 0 33px 0;}
+.indent-bot-2 {margin:0 0 37px 0;}
+.inner-indent {padding:20px 35px 0 0;}
+.indent-top {padding-top:20px;}
+.indents-1 {margin:0 40px 0 0;}
+.pad-right {padding-right:20px;}
+/*----- lists -----*/
+.list-1 {padding:0 0 20px 0;}
+.list-1 li {
+	display:block;
+	padding:6px 0 6px;
+	background:url(http://localhost/dashboard/proyecto%20universidades/Free-AirLines-Website-Template1/Free%20AirLines%20Website%20Template/site/1455_bcd557fb84ca7862f4359f3176bb94e2/images/list-1-border.gif) repeat-x 0 0;
+	line-height:18px;
+}
+	.list-1 li:first-child {padding:0 0 6px 0; background:none;}
+	.list-1 li a {
+		color:#ec8f23;
+		display:inline-block;
+		font-size:12px;
+		text-decoration:none;
+		text-transform:uppercase;
+		padding:0 0 0 15px;
+		background:url(http://localhost/dashboard/proyecto%20universidades/Free-AirLines-Website-Template1/Free%20AirLines%20Website%20Template/site/1455_bcd557fb84ca7862f4359f3176bb94e2/images/list-1-marker.gif) no-repeat 0 6px;
+	}
+		.list-1 li a:hover {
+			color:#454545;
+		}
+.list-2 {padding:0;}
+.list-2 li {
+	display:block;
+	padding:6px 0 6px;
+	background:url(http://localhost/dashboard/proyecto%20universidades/Free-AirLines-Website-Template1/Free%20AirLines%20Website%20Template/site/1455_bcd557fb84ca7862f4359f3176bb94e2/images/list-1-marker.gif) repeat-x 0 0;
+	line-height:18px;
+}
+	.list-2 li:first-child {padding:0 0 6px 0; background:none;}
+	.list-2 li a {
+		color:#ec8f23;
+		display:inline-block;
+		font-size:12px;
+		text-decoration:none;
+		padding:0 0 0 15px;
+		background:url(http://localhost/dashboard/proyecto%20universidades/Free-AirLines-Website-Template1/Free%20AirLines%20Website%20Template/site/1455_bcd557fb84ca7862f4359f3176bb94e2/images/list-1-marker.gif) no-repeat 0 6px;
+	}
+		.list-2 li a:hover {
+			color:#454545;
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*----- buttons & links -----*/
+a {
+	color:#ec8f23;
+	text-decoration: underline;
+	cursor:pointer;
+}
+	a:hover {text-decoration: none;}
+
+.button {
+	display:inline-block;
+	font-size:14px;
+	line-height:20px;
+	padding:5px 14px 6px 14px;
+	font-family: 'Open Sans', sans-serif;
+	color:#fff;
+	text-decoration:none;
+	background:url(http://localhost/dashboard/proyecto%20universidades/Free-AirLines-Website-Template1/Free%20AirLines%20Website%20Template/site/1455_bcd557fb84ca7862f4359f3176bb94e2/images/button-tail.gif) repeat-x 0 0 #ec6b23;
+	text-shadow:1px 1px #e36f15;
+	border-radius:6px;
+}
+	.button:hover {
+		background:url(http://localhost/dashboard/proyecto%20universidades/Free-AirLines-Website-Template1/Free%20AirLines%20Website%20Template/site/1455_bcd557fb84ca7862f4359f3176bb94e2/images/button-tail.gif) repeat-x 0 bottom #e5b81d;
+	}
+
+
+.link {
+	text-decoration: underline;
+	color:#ec8f23;
+	text-transform:uppercase;
+	font-size:11px;
+}
+	.link:hover {text-decoration: none;}
+
+/*********************************header*************************************/
+header{
+	position:relative;
+	z-index:2;	
+}
+#page1 header {background:url() center 0 no-repeat;}
+	header .inner {
+		width:950px;
+		margin:0 auto;
+		padding:0 0 10px 0;
+	}
+.logo {
+	display:inline-block;
+	padding:0 !important;
+}
+.logo a {
+	position:relative;
+	background: url(http://localhost/dashboard/proyecto%20universidades/Free-AirLines-Website-Template1/Free%20AirLines%20Website%20Template/site/1455_bcd557fb84ca7862f4359f3176bb94e2/images/logo.gif) no-repeat 0 0;
+	height:107px;
+	width:200px;
+	overflow:hidden;
+	text-indent:-99em;
+	display:block;
+}
+
+/********************** Slider ************************/
+.mp-slider .items {display:none;}
+.mp-slider {
+	overflow:visible !important;
+}
+.slider-container {
+	position:relative;
+	z-index:1;
+	height:43px;
+	width:9px;
+	margin:0 auto;
+	padding:0 0 5px 0;
+}
+.slider-container .pic, .mp-slider {
+	border-radius:9px;
+	box-shadow:0 0 5px #d4d4d4;
+}
+.slider-container .mask {
+	border-radius:9px;
+}
+
+/********************** Navigation ************************/
+
+/********************** Content ************************/
+
+
+/******************** Footer ******************/

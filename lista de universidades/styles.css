@@ -1,0 +1,402 @@
+/*
+Design by Metamorphosis Design
+http://www.metamorphozis.com
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+*
+{
+margin: 0px;
+padding: 0px;
+}
+
+a {
+	color: #ffffff;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #000000;
+}
+
+body {
+	background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\bg_all.jpg);
+	font: 12px Arial, Helvetica, sans-serif;
+	color: #000000;
+        padding-bottom: 20px;
+}
+
+#content{
+	margin: 0 auto;
+	width: 898px;
+	text-align: left;
+	background: #ffffff url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\con_bg.jpg) repeat-y left;
+}
+
+#main{
+	width: 893px;
+	clear:both;
+        margin-left: 5px;
+}
+
+#header {
+        background: #ffffff url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\con_top.jpg) no-repeat top;
+        padding-top: 5px;
+        padding-bottom: 5px;
+}
+
+#logo {
+	text-align: left;
+        height: 60px;
+        width: 898px;
+        margin:  0 auto;
+        padding-top: 20px;
+}
+
+
+#logo h1 a {
+	text-decoration: none;
+	font-style: italic;
+	font-size: 18px;
+	color: #0f3d85;
+}
+
+#logo H2 a{
+	font-size: 12px;
+	color: #0f3d85;
+	text-decoration:none;
+}
+
+
+#menu{
+	width: 890px;
+	height: 347px;
+        margin:  0 auto;
+}
+
+#menu ul {
+	list-style: none;
+	padding-left: 0px;
+}
+
+#menu li {
+	display: inline;
+	
+}
+
+#button1{
+    background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\button1.jpg) no-repeat left;
+    width: 176px;
+    height: 347px;
+    display: block;
+    text-align: center;
+}
+
+#button1:hover{
+    text-decoration: none;
+	background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\hov1.jpg);
+	background-repeat:no-repeat;
+}
+
+#button2{
+    background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\button2.jpg) no-repeat left;
+    width: 176px;
+    height: 347px;
+    display: block;
+    text-align: center;
+}
+
+#button2:hover{
+    text-decoration: none;
+	background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\hov2.jpg);
+	background-repeat:no-repeat;
+}
+
+#button3{
+    background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\button3.jpg) no-repeat left;
+    width: 176px;
+    height: 347px;
+    display: block;
+    text-align: center;
+}
+#button3:hover{
+    text-decoration: none;
+	background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\hov3.jpg);
+	background-repeat:no-repeat;
+}
+
+#button4{
+    background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\button4.jpg) no-repeat left;
+    width: 176px;
+    height: 347px;
+    display: block;
+    text-align: center;
+}
+#button4:hover{
+    text-decoration: none;
+	background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\hov4.jpg);
+	background-repeat:no-repeat;
+}
+#button5{
+    background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\button5.jpg) no-repeat left;
+    width: 176px;
+    height: 347px;
+    display: block;
+    text-align: center;
+}
+#button5:hover{
+    text-decoration: none;
+	background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\hov5.jpg);
+	background-repeat:no-repeat;
+}
+
+#menu ul
+{
+margin: 0px;
+padding: 0px;
+}
+
+#menu ul li a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight:normal;
+	color: #ffffff;
+	float: left;
+	width: 176px;
+        height: 332px;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	padding-top: 15px;
+        margin-right: 2px;
+}
+
+#menu a:hover{
+	
+}
+
+#left{
+	width: 263px;
+        background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\left_top.jpg) no-repeat top;
+}
+
+#text1, #text2 {
+	width: 269px;
+	height: 22px;
+	padding-top: 4px;
+	padding-left: 8px;
+	padding-right: 8px;
+	border: none;
+	background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\logpole.jpg);
+	background-repeat:no-repeat;
+	background-position:left top;
+	color: #000000;
+	padding-bottom: 5px;
+}
+
+#left H4{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight:normal;
+	color: #ffffff;
+	text-align:center;
+	background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\title_left.gif) repeat-x bottom;
+	width:246px;
+	height:30px;
+        margin: 0 auto;
+	padding-top:10px;
+	margin-bottom: 10px;
+}
+
+#left ul {
+	border: 0px;
+	list-style: none;
+	margin-left: 20px;
+	margin-bottom: 5px;
+	padding-top: 5px;
+}
+
+#left li {
+	background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\ls.png);
+	background-repeat:no-repeat;
+	background-position: 0px 2px;
+	padding-left: 20px;
+	padding-bottom: 10px;
+}
+
+#left a {
+	color: #0f3d85;
+	text-decoration:none;
+	font-weight: bold;
+}
+
+#left a:hover {
+
+	text-decoration: underline;
+}
+
+#left p{
+	color: #000000;
+	padding-top:3px;
+	line-height: 20px;
+}
+
+#right .readl{
+	height: 20px;
+	text-align: right;
+	background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\read.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+
+
+}
+
+#right .readl a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:normal;
+        font-style: italic;
+	color: #0a2a95;
+	text-decoration:none;
+	line-height:0px;
+        border-bottom: 1px dotted #0a2a95;
+        margin-right: 10px;
+
+}
+
+#right .readl a:hover{
+	color: #000000;
+	text-decoration:none;
+}
+
+#right{
+	float: right;
+	width: 621px;
+        margin-right: 4px;
+}
+
+
+.text{
+    background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\text_bg.jpg) no-repeat top;
+    padding: 20px 10px 10px 10px;
+}
+#right H5{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	color: #ffffff;
+	padding-top: 10px;
+        height: 30px;
+        padding-left: 12px;
+	background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\title_right.jpg) repeat-x top;
+}
+
+#right H6{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	color: #0a2a95;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+
+#right a{
+	color: #0a2a95;
+	font-weight:bold;
+	text-decoration: underline;
+}
+
+#right a:hover{
+	color: #84c8f5;
+}
+
+#right p {
+	margin: 0;
+	padding: 0;
+	padding-bottom: 10px;
+}
+
+#gal{
+	padding-left: 5px;
+	background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\gal_bg.jpg);
+	background-repeat:repeat-y;
+	background-position:left;
+}
+
+#gal_top{
+	background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\gal_top.jpg);
+	background-repeat:no-repeat;
+	background-position:left;
+	height: 10px;
+	margin-top: 10px;
+}
+
+#gal_bot{
+	background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\gal_bot.jpg);
+	background-repeat:no-repeat;
+	background-position:left;
+	height: 10px;
+}
+
+#leftcol, #cencol1, #cencol2, #rightcol1, #rightcol2{
+	width: 102px;
+	float:left;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-align:center;
+}
+
+#main_bot{
+	background: url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\main_bot.jpg);
+	background-repeat:no-repeat;
+	background-position:left bottom;
+
+}
+
+#footer {
+	clear: both;
+        background: #ffffff url(C:\xampp\htdocs\dashboard\proyecto universidades\Free-AirLines-Website-Template1\Free AirLines Website Template\site\lista de universidades\images\footer.jpg) no-repeat bottom center;
+        height: 51px;
+        padding-top: 30px;
+}
+
+#footer p {
+	margin: 0;
+	font-size: 10px;
+	text-align: center;
+	color: #ffffff;
+}
+
+#footer a {
+	color: #ffffff;
+        border:  none;
+}
+
+.left_res
+{
+width: 50%;
+float: left;
+}
+
+.left_res a
+{
+color: #0A2AB9;
+font-weight: bold;
+}
+
+.right_res
+{
+float: right;
+width: 50%;
+}
+
+.right_res a
+{
+color: #0A2AB9;
+font-weight: bold;
+}
+
+ul{
+color: #0A2AB9;
+margin-left: 30px;
+}
